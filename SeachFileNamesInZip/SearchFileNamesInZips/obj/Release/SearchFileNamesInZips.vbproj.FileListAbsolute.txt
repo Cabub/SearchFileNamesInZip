@@ -1,0 +1,9 @@
+C:\CalebE\Projects\SeachFileNamesInZip\SearchFileNamesInZips\bin\Release\SearchFileNamesInZips.exe.config
+C:\CalebE\Projects\SeachFileNamesInZip\SearchFileNamesInZips\bin\Release\SearchFileNamesInZips.exe
+C:\CalebE\Projects\SeachFileNamesInZip\SearchFileNamesInZips\bin\Release\SearchFileNamesInZips.pdb
+C:\CalebE\Projects\SeachFileNamesInZip\SearchFileNamesInZips\bin\Release\SearchFileNamesInZips.xml
+C:\CalebE\Projects\SeachFileNamesInZip\SearchFileNamesInZips\obj\Release\SearchFileNamesInZips.Resources.resources
+C:\CalebE\Projects\SeachFileNamesInZip\SearchFileNamesInZips\obj\Release\SearchFileNamesInZips.vbproj.GenerateResource.Cache
+C:\CalebE\Projects\SeachFileNamesInZip\SearchFileNamesInZips\obj\Release\SearchFileNamesInZips.exe
+C:\CalebE\Projects\SeachFileNamesInZip\SearchFileNamesInZips\obj\Release\SearchFileNamesInZips.xml
+C:\CalebE\Projects\SeachFileNamesInZip\SearchFileNamesInZips\obj\Release\SearchFileNamesInZips.pdb
